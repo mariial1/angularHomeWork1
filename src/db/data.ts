@@ -12,4 +12,3 @@ export let cars = [
   {brand: 'mercedes', model: 'CLS', engine: 3.5, year: 2020, status: true},
   {brand: 'BMW', model: 'X6', engine: 2.8, year: 2018, status: true}
 ];
-
